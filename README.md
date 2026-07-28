@@ -1,3 +1,6 @@
+
+![描述1](https://i.ibb.co/xxxxxxx/filename.gif)
+
 <div align="center">
 
 <!-- 动态打字效果 -->
